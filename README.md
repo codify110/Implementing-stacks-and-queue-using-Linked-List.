@@ -6,4 +6,6 @@
 condition. <br />
 2) Pop: Removes an item from the stack. The items are popped in the reversed order
 in which they are pushed. If the stack is empty, then it is said to be an Underflow
-condition.
+condition. <br />
+3) Peek or Top: Returns top element of stack. <br />
+4) Is Empty: Returns true if stack is empty, else false. <br />
